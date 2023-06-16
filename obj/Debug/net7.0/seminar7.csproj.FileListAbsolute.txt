@@ -1,0 +1,15 @@
+D:\C# ДЗ\seminar7\bin\Debug\net7.0\seminar7.exe
+D:\C# ДЗ\seminar7\bin\Debug\net7.0\seminar7.deps.json
+D:\C# ДЗ\seminar7\bin\Debug\net7.0\seminar7.runtimeconfig.json
+D:\C# ДЗ\seminar7\bin\Debug\net7.0\seminar7.dll
+D:\C# ДЗ\seminar7\bin\Debug\net7.0\seminar7.pdb
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.csproj.AssemblyReference.cache
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.AssemblyInfoInputs.cache
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.AssemblyInfo.cs
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.csproj.CoreCompileInputs.cache
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.dll
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\refint\seminar7.dll
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.pdb
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\seminar7.genruntimeconfig.cache
+D:\C# ДЗ\seminar7\obj\Debug\net7.0\ref\seminar7.dll
